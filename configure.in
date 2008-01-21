@@ -2,6 +2,8 @@ AC_INIT([opensolaris-backgrounds], [0.1])
 AM_INIT_AUTOMAKE
 AM_INIT_AUTOMAKE([1.9])
 
+AM_INIT_AUTOMAKE(dist-bzip2)
+
 # Internationalization:
 GETTEXT_PACKAGE=opensolaris-backgrounds
 AC_SUBST(GETTEXT_PACKAGE)
