@@ -8,7 +8,7 @@ PKG_NAME="opensolaris-backgrounds"
 REQUIRED_AUTOMAKE_VERSION=1.7
 
 (test -f $srcdir/configure.in \
-  && test -d $srcdir/themes) || {
+  && test -d $srcdir/opensolaris) || {
     echo -n "**Error**: Directory "\`$srcdir\'" does not look like the"
     echo " top-level opensolaris-backgrounds directory"
     exit 1
