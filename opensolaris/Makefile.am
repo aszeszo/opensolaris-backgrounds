@@ -4,21 +4,21 @@ background_DATA =\
 	BlueSwirl.png \
 	GreenSwirl.png \
 	OrangeSwirl.png \
-	indiana-default.png
+	opensolaris-default.png
 
-metadata_in_files = indiana-backgrounds.xml.in
+metadata_in_files = opensolaris-backgrounds.xml.in
 metadatadir = $(datadir)/gnome-background-properties
 metadata_DATA = $(metadata_in_files:.xml.in=.xml)
 @INTLTOOL_XML_RULE@
 
-noinst_DATA = indiana-backgrounds.xml.in
-CLEANFILES = indiana-backgrounds.xml indiana-backgrounds.xml.in
+noinst_DATA = opensolaris-backgrounds.xml.in
+CLEANFILES = opensolaris-backgrounds.xml opensolaris-backgrounds.xml.in
 
-EXTRA_DIST = $(background_DATA) indiana-backgrounds.xml.in.in
+EXTRA_DIST = $(background_DATA) opensolaris-backgrounds.xml.in.in
 
-indiana-backgrounds.xml.in: indiana-backgrounds.xml.in.in Makefile
-	sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/indiana-backgrounds.xml.in.in > indiana-backgrounds.xml.in.tmp \
-	&& mv indiana-backgrounds.xml.in.tmp indiana-backgrounds.xml.in
+opensolaris-backgrounds.xml.in: opensolaris-backgrounds.xml.in.in Makefile
+	sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/opensolaris-backgrounds.xml.in.in > opensolaris-backgrounds.xml.in.tmp \
+	&& mv opensolaris-backgrounds.xml.in.tmp opensolaris-backgrounds.xml.in
 
 MAINTAINERCLEANFILES = \
 	Makefile.in
