@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <_name>Developer Preview 2</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/opensolaris-default.png</filename>
+    <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Blue Swirl</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/BlueSwirl.png</filename>
+    <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Green Swirl</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/GreenSwirl.png</filename>
+    <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Orange Swirl</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/OrangeSwirl.png</filename>
+    <options>stretched</options>
+  </wallpaper>
+</wallpapers>
