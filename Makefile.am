@@ -1,4 +1,4 @@
-SUBDIRS = themes po
+SUBDIRS = opensolaris po
 EXTRA_DIST = \
 	ChangeLog		\
 	intltool-extract.in	\
