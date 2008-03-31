@@ -2,9 +2,14 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <_name>Developer Preview 2</_name>
-    <filename>@datadir@/pixmaps/backgrounds/opensolaris/opensolaris-default.png</filename>
-    <options>stretched</options>
+    <_name>OpenSolaris 2008.05</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/opensolaris-default.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Blue Dark Flare</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/BlueDarkFlare.jpg</filename>
+    <options>zoom</options>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Blue Swirl</_name>

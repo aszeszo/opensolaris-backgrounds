@@ -1,3 +1,14 @@
+2008-03-27 Erwann Chenede - <erwann.chenede@sun.com>
+
+       * configure.in : bumped release
+       * opensolaris/opensolaris-default.png : deleted
+       * opensolaris/opensolaris-default.jpg: added
+       * opensolaris/BlueDarkFlare.jpg : added
+       * opensolaris/opensolaris-backgrounds.xml.in.in
+       * opensolaris/Makefile.am
+       new set of backgrounds from Opensolaris 2008.05
+       release
+ 
  2008-01-21  Glynn Foster  <glynn.foster@sun.com>
 
 	* configure.in: Post-release bump.
