@@ -5,7 +5,11 @@ background_DATA =\
 	GreenSwirl.png \
 	OrangeSwirl.png \
 	BlueDarkFlare.jpg \
-	opensolaris-default.jpg
+	opensolaris-default.jpg \
+	clouds.jpg \
+	stream.jpg \
+	orbs.jpg \ 
+	communities.jpg
 
 metadata_in_files = opensolaris-backgrounds.xml.in
 metadatadir = $(datadir)/gnome-background-properties

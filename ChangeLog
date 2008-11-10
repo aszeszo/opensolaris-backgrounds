@@ -1,5 +1,9 @@
 2008-11-10 Erwann Chenede - <erwann.chenede@sun.com>
 
+	* opensolaris/Makefile.am : refered new bkgs
+
+2008-11-10 Erwann Chenede - <erwann.chenede@sun.com>
+
 	* configure.in : bump to 0.5
 	* opensolaris/opensolaris-default.jpg
 	* opensolaris/orbs.jpg
