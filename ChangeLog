@@ -1,3 +1,14 @@
+2008-11-10 Erwann Chenede - <erwann.chenede@sun.com>
+
+	* configure.in : bump to 0.5
+	* opensolaris/opensolaris-default.jpg
+	* opensolaris/orbs.jpg
+	* opensolaris/clouds.jpg
+	* opensolaris/stream.jpg
+	* opensolaris/communities.jpg : new backgrounds for 2008.11
+	* opensolaris/opensolaris-backgrounds.xml.in.in : added
+	  descriptions
+
 2008-08-29  Wang Xin  <jedy.wang@sun.com>
 
 	* configure.in: bump to 0.4.

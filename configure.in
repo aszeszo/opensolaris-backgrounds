@@ -1,4 +1,4 @@
-AC_INIT([opensolaris-backgrounds], [0.4])
+AC_INIT([opensolaris-backgrounds], [0.5])
 AM_INIT_AUTOMAKE
 AM_INIT_AUTOMAKE([1.9])
 

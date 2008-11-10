@@ -26,4 +26,24 @@
     <filename>@datadir@/pixmaps/backgrounds/opensolaris/OrangeSwirl.png</filename>
     <options>stretched</options>
   </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Clouds</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/clouds.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Stream</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/stream.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Communities</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/communities.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Orbs</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/orbs.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
 </wallpapers>
