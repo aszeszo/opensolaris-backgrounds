@@ -1,3 +1,18 @@
+2009-03-23 Erwann Chenede - <erwann.chenede@sun.com>
+
+       * configure.in : bump to 0.6
+       * opensolaris/opensolaris-default.jpg : new background 
+	 for 2009.06
+       * opensolaris/Makefile.am 
+       * opensolaris/opensolaris-backgrounds.xml.in.in : removed 
+	 reference to old backgrounds
+       * opensolaris/OrangeSwirl.png
+       * opensolaris/BlueDarkFlare.jpg
+       * opensolaris/GreenSwirl.png
+       * opensolaris/orbs.jpg
+       * opensolaris/BlueSwirl.png
+       * opensolaris/communities.jpg : removed
+
 2008-11-10 Erwann Chenede - <erwann.chenede@sun.com>
 
 	* opensolaris/Makefile.am : refered new bkgs

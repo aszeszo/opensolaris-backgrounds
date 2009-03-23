@@ -1,15 +1,9 @@
 backgrounddir = $(datadir)/pixmaps/backgrounds/opensolaris
 
 background_DATA =\
-	BlueSwirl.png \
-	GreenSwirl.png \
-	OrangeSwirl.png \
-	BlueDarkFlare.jpg \
 	opensolaris-default.jpg \
 	clouds.jpg \
-	stream.jpg \
-	orbs.jpg \ 
-	communities.jpg
+	stream.jpg 
 
 metadata_in_files = opensolaris-backgrounds.xml.in
 metadatadir = $(datadir)/gnome-background-properties
