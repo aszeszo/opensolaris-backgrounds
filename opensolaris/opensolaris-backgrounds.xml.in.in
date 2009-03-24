@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <_name>OpenSolaris 2008.05</_name>
+    <_name>OpenSolaris 2009.06</_name>
     <filename>@datadir@/pixmaps/backgrounds/opensolaris/opensolaris-default.jpg</filename>
     <options>zoom</options>
   </wallpaper>
@@ -14,6 +14,11 @@
   <wallpaper deleted="false">
     <_name>Stream</_name>
     <filename>@datadir@/pixmaps/backgrounds/opensolaris/stream.jpg</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Rings</_name>
+    <filename>@datadir@/pixmaps/backgrounds/opensolaris/rings.jpg</filename>
     <options>zoom</options>
   </wallpaper>
 </wallpapers>

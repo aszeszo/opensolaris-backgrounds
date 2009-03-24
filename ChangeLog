@@ -1,3 +1,11 @@
+2009-03-24 Erwann Chenede - <erwann.chenede@sun.com>
+
+       * configure.in : bump to 0.7
+       * opensolaris/rings.jpg : new alternate bkg
+       * opensolaris/opensolaris-backgrounds.xml.in.in : added background
+         and changed default bkg name
+       * opensolaris/Makefile.am : added alternate bkg
+
 2009-03-23 Erwann Chenede - <erwann.chenede@sun.com>
 
        * configure.in : bump to 0.6

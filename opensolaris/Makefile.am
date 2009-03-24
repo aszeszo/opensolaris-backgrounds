@@ -3,6 +3,7 @@ backgrounddir = $(datadir)/pixmaps/backgrounds/opensolaris
 background_DATA =\
 	opensolaris-default.jpg \
 	clouds.jpg \
+	rings.jpg \
 	stream.jpg 
 
 metadata_in_files = opensolaris-backgrounds.xml.in
