@@ -1,3 +1,8 @@
+2010-01-17 Erwann Chenede - <erwann.chenede@sun.com>
+
+       * configure.in : bump to 0.8
+       * opensolaris/opensolaris-default.jpg : new default background
+
 2009-03-24 Erwann Chenede - <erwann.chenede@sun.com>
 
        * configure.in : bump to 0.7
