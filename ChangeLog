@@ -1,3 +1,9 @@
+2011-06-14 Erwann Chenede - <erwann.chenede@oracle.com>
+
+       * opensolaris/opensolaris-backgrounds.xml.in.in: removed release name.
+       * opensolaris/*.jpg: synced bkgs
+       * configure.in : bump to 0.10
+
 2010-01-17 Erwann Chenede - <erwann.chenede@sun.com>
 
        * configure.in : bump to 0.8
